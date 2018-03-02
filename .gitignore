@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Console/bin/Debug
+/Console/obj/Debug
+/DTO/obj/Debug
+/Polly.Data/bin/Debug
+/Polly.Data/obj/Debug
